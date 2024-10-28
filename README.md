@@ -16,23 +16,12 @@ A recommendation system is a subclass of information filtering systems that seek
 
 3. **Hybrid Methods**: These methods combine content-based and collaborative filtering to provide more accurate recommendations.
    
-    ![The-recommendation-system-types](https://github.com/user-attachments/assets/b08f4f84-9210-4dfb-9734-860b353a3da7)
+   
 
 ### Cosine Similarity
 
 In this project, we use cosine similarity to measure the similarity between movie titles. Cosine similarity is a metric used to measure how similar two vectors are. It is calculated as the cosine of the angle between two vectors projected in a multi-dimensional space. For movie recommendation, the vectors represent movie features, and the similarity score indicates how alike two movies are.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/movie-recommendation-system.git
-    cd movie-recommendation-system
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Usage
